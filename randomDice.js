@@ -1,5 +1,5 @@
 function randomDice() {
     let n = Math.random();
-    n= Math.floor(n*6) + 1;
+    n = Math.floor(n*6) + 1;
     console.log(n);
 }
